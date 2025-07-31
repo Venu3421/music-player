@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Music Player</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer></script>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+  <!-- FontAwesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+  <div class="player-container" id="playerContainer">
+    <div class="player-header">
+      <h1>🎵 My Music Player</h1>
+      <div class="player-controls-top">
+        <button id="fullscreenBtn" title="Toggle Fullscreen"><i class="fas fa-expand"></i></button>
+        <button id="miniPlayerBtn" title="Mini Player"><i class="fas fa-window-minimize"></i></button>
+      </div>
+    </div>
+
+    <div class="album-art">
+      <img src="images/song1.jpg" alt="Album Art" id="cover" />
+    </div>
+
+    <div class="song-info">
+      <h2 id="title">Song Title</h2>
+      <p id="artist">Artist Name</p>
+    </div>
+
+    <div class="controls">
+      <button id="prev"><i class="fas fa-backward"></i></button>
+      <button id="play"><i class="fas fa-play"></i></button>
+      <button id="next"><i class="fas fa-forward"></i></button>
+    </div>
+    <div class="progress-container">
+        <span id="currentTime">0:00</span>
+        <input type="range" id="progressBar" value="0" />
+        <span id="duration">0:00</span>
+    </div>
+
+    <div class="lyrics-box">
+      <h3>Lyrics</h3>
+      <pre id="lyrics">Loading lyrics...</pre>
+    </div>
+
+    <div class="actions">
+      <a id="downloadBtn" href="songs/song1.mp3" download>
+        <i class="fas fa-download"></i> Download
+      </a>
+    </div>
+  </div>
+</body>
+</html>
