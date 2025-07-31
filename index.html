@@ -6,14 +6,15 @@
   <title>My Music Player</title>
   <link rel="stylesheet" href="style.css" />
   <script src="script.js" defer></script>
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
-  <!-- FontAwesome for icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
 
+  <!-- Fonts & Icons -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
   <div class="player-container" id="playerContainer">
+    
+    <!-- Header -->
     <div class="player-header">
       <h1>🎵 My Music Player</h1>
       <div class="player-controls-top">
@@ -22,36 +23,46 @@
       </div>
     </div>
 
+    <!-- Album Art -->
     <div class="album-art">
       <img src="images/song1.jpg" alt="Album Art" id="cover" />
     </div>
 
+    <!-- Song Info -->
     <div class="song-info">
       <h2 id="title">Song Title</h2>
       <p id="artist">Artist Name</p>
     </div>
 
+    <!-- Main Controls -->
     <div class="controls">
       <button id="prev"><i class="fas fa-backward"></i></button>
       <button id="play"><i class="fas fa-play"></i></button>
       <button id="next"><i class="fas fa-forward"></i></button>
     </div>
+
+    <!-- Progress Bar -->
     <div class="progress-container">
-        <span id="currentTime">0:00</span>
-        <input type="range" id="progressBar" value="0" />
-        <span id="duration">0:00</span>
+      <span id="currentTime">0:00</span>
+      <input type="range" id="progressBar" value="0" />
+      <span id="duration">0:00</span>
     </div>
 
+    <!-- Lyrics -->
     <div class="lyrics-box">
       <h3>Lyrics</h3>
-      <pre id="lyrics">Loading lyrics...</pre>
+      <button id="scrollLockBtn" title="Toggle Auto Scroll"><i class="fas fa-lock-open"></i></button>
+
+      <div id="lyrics">Loading lyrics...</div>
     </div>
 
+    <!-- Download -->
     <div class="actions">
       <a id="downloadBtn" href="songs/song1.mp3" download>
         <i class="fas fa-download"></i> Download
       </a>
     </div>
+
   </div>
 </body>
 </html>

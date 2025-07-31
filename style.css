@@ -1,4 +1,4 @@
-/* Reset and base styling */
+/* Reset and Base Styles */
 * {
   margin: 0;
   padding: 0;
@@ -16,6 +16,7 @@ body {
   padding: 20px;
 }
 
+/* Player Container */
 .player-container {
   background: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(20px);
@@ -28,6 +29,7 @@ body {
   position: relative;
 }
 
+/* Header */
 .player-header {
   display: flex;
   justify-content: space-between;
@@ -48,6 +50,7 @@ body {
   margin-left: 10px;
 }
 
+/* Album Art */
 .album-art {
   display: flex;
   justify-content: center;
@@ -61,6 +64,7 @@ body {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
 
+/* Song Info */
 .song-info {
   text-align: center;
   margin-bottom: 20px;
@@ -76,6 +80,7 @@ body {
   color: #ccc;
 }
 
+/* Controls */
 .controls {
   display: flex;
   justify-content: center;
@@ -95,18 +100,64 @@ body {
   transition: background 0.3s ease;
 }
 
-.controls button:hover {
+.controls button:hover,
+.player-controls-top button:hover {
+  transform: scale(1.1);
   background: #ff4081;
   color: #fff;
+  box-shadow: 0 0 10px #ff4081;
+  transition: transform 0.2s, box-shadow 0.2s;
 }
 
+
+.controls button i {
+  font-size: 1.2rem;
+  vertical-align: middle;
+}
+
+/* Progress Bar */
+.progress-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 15px 0;
+}
+
+#progressBar {
+  flex-grow: 1;
+  height: 6px;
+  border-radius: 5px;
+  background: linear-gradient(to right, #ff4081 0%, #fff 0%);
+  outline: none;
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+#progressBar::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 14px;
+  width: 14px;
+  background: #ff4081;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  margin-top: -4px;
+}
+
+/* Lyrics */
 .lyrics-box {
   background: rgba(255, 255, 255, 0.05);
   padding: 15px;
   border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+#lyrics {
   max-height: 170px;
   overflow-y: auto;
-  margin-bottom: 20px;
+  padding-right: 8px;
 }
 
 .lyrics-box h3 {
@@ -114,17 +165,43 @@ body {
   margin-bottom: 10px;
 }
 
-.lyrics-box pre {
-  white-space: pre-wrap;
-  font-size: 1rem;
-  line-height: 1.6;
-  color: #f1f1f1;
+.lyrics-line {
+  opacity: 0.6;
+  transition: all 0.3s ease;
+  font-size: 0.95rem;
   font-family: 'Poppins', sans-serif;
-  padding-left: 5px;
-  scroll-behavior: smooth;
+  line-height: 1.5;
+  padding: 2px 0;
 }
 
+.lyrics-line.active {
+  color: #ff4081;
+  font-weight: 600;
+  opacity: 1;
+  animation: glow 1.5s ease-in-out infinite alternate;
+}
 
+@keyframes glow {
+  from {
+    text-shadow: 0 0 10px #ff4081, 0 0 20px #ff4081;
+  }
+  to {
+    text-shadow: 0 0 20px #ff5caa, 0 0 30px #ff5caa;
+  }
+}
+
+.word {
+  transition: color 0.2s;
+  padding-right: 2px;
+}
+
+.word.highlighted {
+  color: #fff;
+  background: linear-gradient(to top, #ff4081 40%, transparent 40%);
+  border-radius: 4px;
+}
+
+/* Download Button */
 .actions {
   text-align: center;
 }
@@ -142,7 +219,7 @@ body {
   background: #e91e63;
 }
 
-/* Mini player mode */
+/* Mini Player Mode */
 .player-container.mini {
   width: 300px;
   padding: 20px;
@@ -153,32 +230,16 @@ body {
 .player-container.mini .actions {
   display: none;
 }
-.progress-container {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  margin: 15px 0;
-}
-
-#progressBar {
-  flex-grow: 1;
-  height: 6px;
-  border-radius: 5px;
-  background: #fff;
-  outline: none;
-  appearance: none;
-  -webkit-appearance: none;
+#scrollLockBtn {
+  background: none;
+  border: none;
+  color: #ccc;
+  font-size: 1rem;
+  float: right;
   cursor: pointer;
+  transition: color 0.2s;
 }
 
-#progressBar::-webkit-slider-thumb {
-  -webkit-appearance: none;
-  width: 12px;
-  height: 12px;
-  background: #ff4081;
-  border-radius: 50%;
-}
-.controls button i {
-  font-size: 1.2rem;
-  vertical-align: middle;
+#scrollLockBtn:hover {
+  color: #ff4081;
 }
