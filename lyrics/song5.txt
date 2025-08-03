@@ -1,175 +1,88 @@
-Shri guru charan sarooja-raj nija manu mukura sudhaari
-
-Baranau rahubhara bimala yasha jo dayaka phala chari
-
-Budhee-heen thanu jannikay sumirow pavana kumara
-
-Bala-budhee vidya dehoo mohee harahu kalesha vikaara
-
-Jai hanuman gyan gun sagar
-
-Jai kapis tihun lok ujagar
-
-Ram doot atulit bal dhama
-
-Anjaani-putra pavan sut nama
-
-Mahabir bikram bajrangi
-
-Kumati nivar sumati ke sangi
-
-Kanchan varan viraj subesa
-
-Kanan kundal kunchit kesha
-
-Hath vajra aur dhuvaje viraje
-
-Kaandhe moonj janehu sajai
-
-Sankar suvan kesri nandan
-
-Tej prataap maha jag vandan
-
-Vidyavaan guni ati chatur
-
-Ram kaj karibe ko aatur
-
-Prabu charitra sunibe-ko rasiya
-
-Ram lakhan sita man basiya
-
-Sukshma roop dhari siyahi dikhava
-
-Vikat roop dhari lank jarava
-
-Bhima roop dhari asur sanghare
-
-Ramachandra ke kaj sanvare
-
-Laye sanjivan lakhan jiyaye
-
-Shri raghuvir harashi ur laye
-
-Raghupati kinhi bahut badai
-
-Tum mam priye bharat-hi-sam bhai
-
-Sahas badan tumharo yash gaave
-
-Asa-kahi shripati kanth lagaave
-
-Sankadhik brahmaadi muneesa
-
-Narad-sarad sahit aheesa
-
-Yam kuber digpaal jahan te
-
-Kavi kovid kahi sake kahan te
-
-Tum upkar sugreevahin keenha
-
-Ram milaye rajpad deenha
-
-Tumharo mantra vibheeshan maana
-
-Lankeshwar bhaye sub jag jana
-
-Yug sahastra jojan par bhanu
-
-Leelyo tahi madhur phal janu
-
-Prabhu mudrika meli mukh mahee
-
-Jaladhi langhi gaye achraj nahee
-
-Durgaam kaj jagath ke jete
-
-Sugam anugraha tumhre tete
-
-Ram dwaare tum rakhvare
-
-Hoat na agya binu paisare
-
-Sub sukh lahae tumhari sar na
-
-Tum rakshak kahu ko dar naa
-
-Aapan tej samharo aapai
-
-Teenhon lok hank te kanpai
-
-Bhoot pisaach nikat nahin aavai
-
-Mahavir jab naam sunavae
-
-Nase rog harae sab peera
-
-Japat nirantar hanumant beera
-
-Sankat se hanuman chudavae
-
-Man karam vachan dyan jo lavai
-
-Sab par ram tapasvee raja
-
-Tin ke kaj sakal tum saja
-
-Aur manorath jo koi lavai
-
-Sohi amit jeevan phal pavai
-
-Charon yug partap tumhara
-
-Hai persidh jagat ujiyara
-
-Sadhu sant ke tum rakhware
-
-Asur nikandan ram dulhare
-
-Ashtasidhi nav nidhi ke dhata
-
-As-var deen janki mata
-
-Ram rasayan tumhare pasa
-
-Sada raho raghupati ke dasa
-
-Tumhare bhajan ram ko pavai
-
-Janam-janam ke dukh bisraavai
-
-Anth-kaal raghuvir pur jayee
-
-Jahan janam hari-bakht kahayee
-
-Aur devta chit na dharehi
-
-Hanumanth se hi sarve sukh karehi
-
-Sankat kate-mite sab peera
-
-Jo sumirai hanumat balbeera
-
-Jai jai jai hanuman gosahin
-
-Kripa karahu gurudev ki nyahin
-
-Jo sat bar path kare kohi
-
-Chutehi bandhi maha sukh hohi
-
-Jo yah padhe hanuman chalisa
-
-Hoye siddhi sakhi gaureesa
-
-Tulsidas sada hari chera
-
-Keejai nath hridaye mein dera
-
-Pavan tanay sankat harana
-
-Mangala murati roop
-
-Ram lakhana sita sahita
-
-Hriday basahu soor bhoop..a
+[00:18.79]Shri guru charan sarooja-raj nija manu mukura sudhaari
+[00:23.28]Baranau rahubhara bimala yasha jo dayaka phala chari
+[00:28.09]Budhee-heen thanu jannikay sumirow pavana kumara
+[00:32.35]Bala-budhee vidya dehoo mohee harahu kalesha vikaara
+[00:37.25]Jai hanuman gyan gun sagar
+[00:39.50]Jai kapis tihun lok ujagar
+[00:41.64]Ram doot atulit bal dhama
+[00:44.17]Anjaani-putra pavan sut nama
+[00:46.54]Mahabir bikram bajrangi
+[00:48.76]Kumati nivar sumati ke sangi
+[00:51.00]Kanchan varan viraj subesa
+[00:53.31]Kanan kundal kunchit kesha
+[00:55.68]Hath vajra aur dhuvaje viraje
+[00:57.83]Kaandhe moonj janehu sajai
+[01:00.32]Sankar suvan kesri nandan
+[01:02.55]Tej prataap maha jag vandan
+[01:04.64]Vidyavaan guni ati chatur
+[01:07.23]Ram kaj karibe ko aatur
+[01:19.10]Prabu charitra sunibe-ko rasiya
+[01:21.22]Ram lakhan sita man basiya
+[01:23.44]Sukshma roop dhari siyahi dikhava
+[01:25.71]Vikat roop dhari lank jarava
+[01:28.13]Bhima roop dhari asur sanghare
+[01:30.41]Ramachandra ke kaj sanvare
+[01:32.57]Laye sanjivan lakhan jiyaye
+[01:35.00]Shri raghuvir harashi ur laye
+[01:37.41]Raghupati kinhi bahut badai
+[01:39.63]Tum mam priye bharat-hi-sam bhai
+[01:41.99]Sahas badan tumharo yash gaave
+[01:44.27]Asa-kahi shripati kanth lagaave
+[01:46.45]Sankadhik brahmaadi muneesa
+[01:48.56]Narad-sarad sahit aheesa
+[01:50.74]Yam kuber digpaal jahan te
+[01:53.23]Kavi kovid kahi sake kahan te
+[01:55.32]Tum upkar sugreevahin keenha
+[01:57.79]Ram milaye rajpad deenha
+[02:00.17]Tumharo mantra vibheeshan maana
+[02:02.61]Lankeshwar bhaye sub jag jana
+[02:05.14]Yug sahastra jojan par bhanu
+[02:07.28]Leelyo tahi madhur phal janu
+[02:09.61]Prabhu mudrika meli mukh mahee
+[02:11.92]Jaladhi langhi gaye achraj nahee
+[02:14.23]Durgaam kaj jagath ke jete
+[02:16.48]Sugam anugraha tumhre tete
+[02:18.69]Ram dwaare tum rakhvare
+[02:21.06]Hoat na agya binu paisare
+[02:42.56]Sub sukh lahae tumhari sar na
+[02:44.10]Tum rakshak kahu ko dar naa
+[02:46.55]Aapan tej samharo aapai
+[02:48.84]Teenhon lok hank te kanpai
+[02:51.78]Bhoot pisaach nikat nahin aavai
+[02:58.09]Mahavir jab naam sunavae
+[03:00.43]Nase rog harae sab peera
+[03:02.65]Japat nirantar hanumant beera
+[03:04.95]Sankat se hanuman chudavae
+[03:07.38]Man karam vachan dyan jo lavai
+[03:09.66]Sab par ram tapasvee raja
+[03:11.85]Tin ke kaj sakal tum saja
+[03:14.06]Aur manorath jo koi lavai
+[03:16.69]Sohi amit jeevan phal pavai
+[03:19.66]Charon yug partap tumhara
+[03:21.17]Hai persidh jagat ujiyara
+[03:23.30]Sadhu sant ke tum rakhware
+[03:25.63]Asur nikandan ram dulhare
+[03:27.90]Ashtasidhi nav nidhi ke dhata
+[03:30.19]As-var deen janki mata
+[03:32.50]Ram rasayan tumhare pasa
+[03:34.81]Sada raho raghupati ke dasa
+[03:37.31]Tumhare bhajan ram ko pavai
+[03:39.41]Janam-janam ke dukh bisraavai
+[03:41.66]Anth-kaal raghuvir pur jayee
+[03:44.17]Jahan janam hari-bakht kahayee
+[03:46.39]Aur devta chit na dharehi
+[03:48.68]Hanumanth se hi sarve sukh karehi
+[03:51.17]Sankat kate-mite sab peera
+[03:53.47]Jo sumirai hanumat balbeera
+[03:55.82]Jai jai jai hanuman gosahin
+[03:58.09]Kripa karahu gurudev ki nyahin
+[04:00.55]Jo sat bar path kare kohi
+[04:03.05]Chutehi bandhi maha sukh hohi
+[04:05.00]Jo yah padhe hanuman chalisa
+[04:07.38]Hoye siddhi sakhi gaureesa
+[04:09.50]Tulsidas sada hari chera
+[04:11.93]Keejai nath hridaye mein dera
+[04:44.82]Pavan tanay sankat harana
+[04:46.42]Mangala murati roop
+[04:48.86]Ram lakhana sita sahita
+[04:51.20]Hriday basahu soor bhoop..a

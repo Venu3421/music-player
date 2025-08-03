@@ -1,66 +1,33 @@
-Aakasam Baddalaina Soundu Gundellona
-
-Moguthundi Ninnu Kalisaaka
-
-Meghaale Guddhukunna Lightu Kallallona
-
-Cherukundhi Ninnu Kalisnaka
-
-Rai Rai Rai Raid Chesei… Rocket La Manasuni
-
-Sye Sye Sye Side Chesei… Signals Tho Em Pani
-
-Ika Highway Laina Oneway Laina… Kadhaladhem Bandi Tere Bina
-
-Aakasham Baddalaina Soundu Gundellona
-
-Moguthundi Ninnu Kalisaaka
-
-Meghaale Guddhukunna Lightu Kallallona
-
-Cherukundhi Ninnu Kalisnaka
-
-Partylaa Undhi Neethoti Prathi Kshanam
-
-Endukante Cheppalenu Kaaranam
-
-Tastygaa Undhi Nuv Cheppe Prathi Padham
-
-Bagundhabbaa Maatallona Munchadam
-
-Hey..Roller Coaster Enthunnaa.. Ee Thrillisthundhaa Jaana
-
-Neetho Paatu Thirigesthunte Jore Thaggenaa
-
-Cartoon Channel Lo Nainaa… Ee Fun Undaa Lolonaa
-
-Neetho Paatu Gadipesthunte Time Ye Telisenaa
-
-Ika Salsaalainaa Saambaa Lainaa… Kadhaladhe Ollu Tere Bina
-
-Online Lo Nuvvu Hi Ante
-
-Na Madhi Cloud Nine Loki Nannu Thosthadi
-
-Offline Lo Nuvvu Unnaavante
-
-Madhi Coal Mine Loki Kooresthadhi
-
-Oo Ye Place Ayinaa Greeting Card Laa Kanipistundi Chaalaa
-
-Natho Paatu Ee Feelingu Neeku Kothhenaa
-
-Ye Rojainaa Valentines Day Anipisthundhi Mainaa
-
-Naatho Paatu Adugesthunte Neeku Anthenaa
-
-Ika Dating Ayinaa Fighting Ayinaa Gadavadhe Roju Tere Bina
-
-Aakasham Baddalaina Soundu Gundellona
-
-Moguthundi Ninnu Kalisaaka
-
-Meghaale Guddhukunna Lightu Kallallona
-
-Cherukundhi Ninnu Kalisnaka
-
+[00:25.18]Aakasam Baddalaina Soundu Gundellona
+[00:28.84]Moguthundi Ninnu Kalisaaka
+[00:35.22]Meghaale Guddhukunna Lightu Kallallona
+[00:39.50]Cherukundhi Ninnu Kalisnaka
+[00:44.25]Rai Rai Rai Raid Chesei… Rocket La Manasuni
+[00:52.53]Sye Sye Sye Side Chesei… Signals Tho Em Pani
+[00:59.26]Ika Highway Laina Oneway Laina… Kadhaladhem Bandi Tere Bina
+[01:06.36]Aakasham Baddalaina Soundu Gundellona
+[01:10.23]Moguthundi Ninnu Kalisaaka
+[01:13.65]Meghaale Guddhukunna Lightu Kallallona
+[01:17.24]Cherukundhi Ninnu Kalisnaka
+[01:22.81]Partylaa Undhi Neethoti Prathi Kshanam
+[01:44.32]Endukante Cheppalenu Kaaranam
+[01:47.85]Tastygaa Undhi Nuv Cheppe Prathi Padham
+[01:51.20]Bagundhabbaa Maatallona Munchadam
+[01:54.58]Hey..Roller Coaster Enthunnaa.. Ee Thrillisthundhaa Jaana
+[01:57.98]Neetho Paatu Thirigesthunte Jore Thaggenaa
+[02:01.41]Cartoon Channel Lo Nainaa… Ee Fun Undaa Lolonaa
+[02:05.07]Neetho Paatu Gadipesthunte Time Ye Telisenaa
+[02:08.25]Ika Salsaalainaa Saambaa Lainaa… Kadhaladhe Ollu Tere Bina
+[02:15.37]Online Lo Nuvvu Hi Ante
+[03:01.40]Na Madhi Cloud Nine Loki Nannu Thosthadi
+[03:05.45]Offline Lo Nuvvu Unnaavante
+[03:08.34]Madhi Coal Mine Loki Kooresthadhi
+[03:12.49]Oo Ye Place Ayinaa Greeting Card Laa Kanipistundi Chaalaa
+[03:15.86]Natho Paatu Ee Feelingu Neeku Kothhenaa
+[03:19.15]Ye Rojainaa Valentines Day Anipisthundhi Mainaa
+[03:23.26]Naatho Paatu Adugesthunte Neeku Anthenaa
+[03:26.11]Ika Dating Ayinaa Fighting Ayinaa Gadavadhe Roju Tere Bina
+[03:32.63]Aakasham Baddalaina Soundu Gundellona
+[03:36.85]Moguthundi Ninnu Kalisaaka
+[03:40.13]Meghaale Guddhukunna Lightu Kallallona
+[03:47.22]Cherukundhi Ninnu Kalisnaka
