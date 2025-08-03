@@ -1,33 +1,33 @@
-Kannile kanneeriley
-Pirinthe naan pogiraen
-Vinnile ven meghamai
-Kalainthe naan mella mella karainthaen
-Azhugai ennum aruviyil
-Dhinam dhinam naanum vizhunthene
-Nilave un nizhalinai
-Thodarnthida naanum vilainthene
-Yaen ennai pirindhaai
-Uyire uyire
-Kadhalai erithai en azhage
-Yaen ennai pirindhaai
-Uyire uyire
-Kanneeril urainthaai kanave
-Yaen ennai pirindhaai
-Uyire uyire
-Kadhalai erithai en azhage
-Yaen ennai pirindhaai
-Uyire uyire
-Kanneeril urainthaai kanave
-Iravum en pagalum un vizhiyin oram pookindrathe
-Uthirum en uyirum un oru sol thedi alaiginrathe
-Ennanatho en kadhale
-Man thaagam theerum mazhaiyile
-Azhugai ennum aruviyil
-dinamdinum naanum villundene
-Nilave un nizhalinai thodarnthida naanum izhainthaene
-Yaen ennai pirindhaai
-Uyire uyire
-Kadhalai erithai en azhage
-Yaen ennai pirindhaai
-Uyire uyire
-Kanneeril urainthaai kanave
+[00:13.66]Kannile kanneeriley
+[00:19.67]Pirinthe naan pogiraen
+[00:26.25]Vinnile ven meghamai
+[00:32.66]Kalainthe naan mella mella karainthaen
+[00:37.83]Azhugai ennum aruviyil
+[00:40.84]Dhinam dhinam naanum vizhunthene
+[00:43.90]Nilave un nizhalinai
+[00:47.12]Thodarnthida naanum vilainthene
+[00:50.41]Yaen ennai pirindhaai
+[00:54.46]Uyire uyire
+[00:57.60]Kadhalai erithai en azhage
+[01:04.31]Yaen ennai pirindhaai
+[01:07.30]Uyire uyire
+[01:10.55]Kanneeril urainthaai kanave
+[01:42.07]Yaen ennai pirindhaai
+[01:45.21]Uyire uyire
+[01:48.21]Kadhalai erithai en azhage
+[01:55.29]Yaen ennai pirindhaai
+[01:57.80]Uyire uyire
+[02:00.94]Kanneeril urainthaai kanave
+[02:08.60]Iravum en pagalum un vizhiyin oram pookindrathe
+[02:15.17]Uthirum en uyirum un oru sol thedi alaiginrathe
+[02:22.14]Ennanatho en kadhale
+[02:27.94]Man thaagam theerum mazhaiyile
+[02:33.91]Azhugai ennum aruviyil
+[02:37.09]dinamdinum naanum villundene
+[02:40.28]Nilave un nizhalinai thodarnthida naanum izhainthaene
+[02:48.02]Yaen ennai pirindhaai
+[02:51.82]Uyire uyire
+[02:53.67]Kadhalai erithai en azhage
+[03:00.52]Yaen ennai pirindhaai
+[03:03.52]Uyire uyire
+[03:07.04]Kanneeril urainthaai kanave
